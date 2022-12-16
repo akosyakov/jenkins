@@ -14,6 +14,8 @@ github:
 
 jetbrains:
   intellij:
+    vmoptions: >
+      -Xmx4g
     plugins:
       - Stapler plugin for IntelliJ IDEA
     prebuilds:
